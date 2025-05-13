@@ -1,0 +1,17 @@
+export_data_from_cvat/
+inference/.streamlit/
+inference/incidents_clips/
+inference/input_videos/
+inference/models/
+inference/output_videos/
+inference/hand_gesture.py
+inference/key.py
+inference/OCR.py
+inference/openvino_conversion.py
+training/no_helmet_imp_base_run_3/
+training/no_helmet_imp_run/
+training/no_helmet_imp_run_2/
+training/traffic_data03-Apr-2025/
+training/traffic_dataset_04-Apr-2025/
+training/yolo11n.pt
+videos_to_frames/

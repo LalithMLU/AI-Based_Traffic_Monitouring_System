@@ -1,0 +1,5 @@
+train: "/home/livnsense/Projects/BPRD_usecase/training/traffic_dataset_04-Apr-2025/train"
+val: "/home/livnsense/Projects/BPRD_usecase/training/traffic_dataset_04-Apr-2025/val"
+nc: 10
+# Classes
+names: ['person', 'car', 'bike', 'auto', 'bus', 'livestock', 'helmet', 'no_helmet', 'truck', 'number_plate']
